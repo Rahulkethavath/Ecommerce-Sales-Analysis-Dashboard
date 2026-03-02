@@ -24,10 +24,10 @@ The dashboard was built using **three Excel datasets**:
 
 ### 📊 1. Sales Analysis Page  
 
-![Sales Analysis Preview](/Sales%20Analysis.png)
+![Sales Analysis Preview](/SALES%20ANALYSIS.PNG)
 ### ℹ️ 2. Vendor Details  
 
-![Info Page Preview](/Vendor%20Detail.png)
+![Info Page Preview](/VENDOR%20DETAILS.PNG)
 
 ## 🗂 Data Model
 
